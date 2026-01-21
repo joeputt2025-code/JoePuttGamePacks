@@ -1,1 +1,38 @@
-
+{
+  "version": "1.0.0",
+  "firmware": {
+    "file": "pdm_latest.bin",
+    "url": "https://raw.githubusercontent.com/joeputt2025-code/JoePuttGamePacks/main/assets/pdm_latest.bin"
+  },
+  "assets": {
+    "wav": [
+      "beep.wav",
+      "big-miss.wav",
+      "button.wav",
+      "claps-few-people.wav",
+      "Congratulations.wav",
+      "crickets-sound.wav",
+      "Crowd-Aw.wav",
+      "crowd-cheer.wav",
+      "End_Winner.wav",
+      "Hole-out.wav",
+      "intro.wav",
+      "Low_crowd.wav",
+      "menu_background.wav",
+      "Mid_crowd.wav",
+      "Next-Hole.wav",
+      "Player_1.wav",
+      "Player_2.wav",
+      "Player_3.wav",
+      "Player_4.wav",
+      "Player_5.wav",
+      "Player_6.wav",
+      "Score.wav",
+      "Winner.wav"
+    ],
+    "bmp": [
+      "joeputt_intro.bmp",
+      "CTP.bmp"
+    ]
+  }
+}
