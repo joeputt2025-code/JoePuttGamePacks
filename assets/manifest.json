@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "firmware": {
     "file": "pdm_latest.bin",
-    "url": "https://raw.githubusercontent.com/joeputt2025-code/JoePuttGamePacks/main/assets/pdm_latest.bin"
+    "url": "https://raw.githubusercontent.com/joeputt2025-code/JoePuttGamePacks/main/pdm_latest.bin"
   },
   "assets": {
     "wav": [
