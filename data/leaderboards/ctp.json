@@ -6,9 +6,15 @@
   "scores": [
     {
       "name": "JOEPUTT",
+      "score": 14,
+      "date": "2026-05-05T03:13:45.983Z",
+      "rank": 1
+    },
+    {
+      "name": "JOEPUTT",
       "score": 20,
       "date": "2026-05-05T03:13:33.429Z",
-      "rank": 1
+      "rank": 2
     }
   ]
 }
