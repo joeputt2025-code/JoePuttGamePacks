@@ -1,7 +1,7 @@
 {
   "game": "ctp",
   "version": 1,
-  "sort": "desc",
+  "sort": "asc",
   "limit": 50,
   "scores": []
 }
