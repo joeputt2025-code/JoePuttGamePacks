@@ -1,10 +1,12 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "firmware": {
+    "version": "1.0.7",
     "file": "pdm_latest.bin",
     "url": "https://raw.githubusercontent.com/joeputt2025-code/JoePuttGamePacks/main/pdm_latest.bin"
   },
   "assets": {
+    "version": "1.0.7",
     "wav": [
       "beep.wav",
       "big-miss.wav",
@@ -32,7 +34,9 @@
     ],
     "bmp": [
       "joeputt_intro.bmp",
-      "CTP.bmp"
+      "CTP.bmp",
+      "AroundWorld.bmp",
+      "Cricket.bmp"
     ]
   }
 }
