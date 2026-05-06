@@ -3,5 +3,12 @@
   "version": 1,
   "sort": "desc",
   "limit": 50,
-  "scores": []
+  "scores": [
+    {
+      "name": "JOEPUTT",
+      "score": 730,
+      "date": "2026-05-06T02:58:47.534Z",
+      "rank": 1
+    }
+  ]
 }
