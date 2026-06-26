@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "firmware": {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "file": "pdm_latest.bin",
     "url": "https://raw.githubusercontent.com/joeputt2025-code/JoePuttGamePacks/main/pdm_latest.bin"
   },
